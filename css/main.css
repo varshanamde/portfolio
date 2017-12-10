@@ -1,0 +1,35 @@
+.pull-right
+{
+position:absolute;
+right:20px;
+width:200px;
+
+display:inline;
+
+}
+
+nav{
+background-color:gray;
+}
+nav a{
+	display:inline;
+	text-decoration:none;
+	color:white;
+}
+nav a:hover
+{
+	color:red;
+}
+body
+{
+	margin-top:0px;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	padding:10px;
+}
+div
+{
+	padding:30px;
+}
+
